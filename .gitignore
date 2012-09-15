@@ -19,5 +19,3 @@ local.properties
 .classpath
 .project
 .settings/
-lib/
-NVDB/
